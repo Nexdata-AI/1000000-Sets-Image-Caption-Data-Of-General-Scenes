@@ -2,7 +2,7 @@
 
 ## Description
 1,000,000 sets of images and descriptions，the types of pictures include landscapes, animals, flowers and trees, people, cars, sports, industries, and buildings. Category and an aesthetic subset, each image has no less than two descriptions, each with one sentence; a small number of images have only one description, and the description languages are English and Chinese
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1331?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/llm/1331?source=Github
 
 
 ## Data size
